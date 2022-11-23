@@ -1,4 +1,4 @@
-# SLT - Sign Language Translation
+# SLT - Continuous Sign Language Translation for German
 Sign Language Translation - German
 
 
