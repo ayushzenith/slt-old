@@ -21,6 +21,7 @@ Chin-Yew Lin, Franz Josef Och. ORANGE: a method for evaluating automatic
 evaluation metrics for machine translation. COLING 2004.
 """
 
+"""
 import collections
 import math
 
@@ -110,3 +111,5 @@ def compute_bleu(reference_corpus, translation_corpus, max_order=4,
     bleu = geo_mean * bp
 
     return bleu, precisions, bp, ratio, translation_length, reference_length
+    
+"""
